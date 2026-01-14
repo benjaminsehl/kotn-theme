@@ -1083,7 +1083,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image": "shopify://shop_images/kotn-instagram-1.png",
-                    "link": "",
+                    "link": "https://instagram.com/kotn",
                     "image_ratio": "square",
                     "width": "fill",
                     "custom_width": 100,
@@ -1106,7 +1106,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image": "shopify://shop_images/kotn-instagram-2.png",
-                    "link": "",
+                    "link": "https://instagram.com/kotn",
                     "image_ratio": "square",
                     "width": "fill",
                     "custom_width": 100,
@@ -1175,7 +1175,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image": "shopify://shop_images/kotn-instagram-3.png",
-                    "link": "",
+                    "link": "https://instagram.com/kotn",
                     "image_ratio": "square",
                     "width": "fill",
                     "custom_width": 100,
@@ -1198,7 +1198,7 @@
                   "name": "t:names.image",
                   "settings": {
                     "image": "shopify://shop_images/kotn-instagram-4.png",
-                    "link": "",
+                    "link": "https://instagram.com/kotn",
                     "image_ratio": "square",
                     "width": "fill",
                     "custom_width": 100,
