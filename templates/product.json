@@ -140,7 +140,7 @@
                   "settings": {
                     "content_direction": "row",
                     "vertical_on_mobile": false,
-                    "horizontal_alignment": "flex-start",
+                    "horizontal_alignment": "space-between",
                     "vertical_alignment": "center",
                     "align_baseline": false,
                     "horizontal_alignment_flex_direction_column": "flex-start",
@@ -205,7 +205,7 @@
                         "show_number": false,
                         "rating_color": "foreground",
                         "type_preset": "h6",
-                        "width": "100%",
+                        "width": "fit-content",
                         "alignment": "left"
                       },
                       "blocks": {}
@@ -321,7 +321,7 @@
                         "background_color": "#00000026",
                         "corner_radius": 0,
                         "padding-block-start": 0,
-                        "padding-block-end": 0,
+                        "padding-block-end": 16,
                         "padding-inline-start": 0,
                         "padding-inline-end": 0
                       },
@@ -360,7 +360,7 @@
                         "background_color": "#00000026",
                         "corner_radius": 0,
                         "padding-block-start": 0,
-                        "padding-block-end": 0,
+                        "padding-block-end": 16,
                         "padding-inline-start": 0,
                         "padding-inline-end": 0
                       },
@@ -399,7 +399,7 @@
                         "background_color": "#00000026",
                         "corner_radius": 0,
                         "padding-block-start": 0,
-                        "padding-block-end": 0,
+                        "padding-block-end": 16,
                         "padding-inline-start": 0,
                         "padding-inline-end": 0
                       },
