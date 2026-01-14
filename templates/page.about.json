@@ -802,8 +802,9 @@
                   "type": "image",
                   "name": "t:names.image",
                   "settings": {
+                    "image": "shopify://shop_images/kotn-impact-homepage-hero.jpg",
                     "link": "",
-                    "image_ratio": "adapt",
+                    "image_ratio": "square",
                     "width": "fill",
                     "custom_width": 100,
                     "width_mobile": "fill",
@@ -911,8 +912,9 @@
                   "type": "image",
                   "name": "t:names.image",
                   "settings": {
+                    "image": "shopify://shop_images/kotn-impact-homepage-hero.jpg",
                     "link": "",
-                    "image_ratio": "adapt",
+                    "image_ratio": "square",
                     "width": "fill",
                     "custom_width": 100,
                     "width_mobile": "fill",
@@ -1020,8 +1022,9 @@
                   "type": "image",
                   "name": "t:names.image",
                   "settings": {
+                    "image": "shopify://shop_images/kotn-impact-homepage-hero.jpg",
                     "link": "",
-                    "image_ratio": "adapt",
+                    "image_ratio": "square",
                     "width": "fill",
                     "custom_width": 100,
                     "width_mobile": "fill",
@@ -1129,8 +1132,9 @@
                   "type": "image",
                   "name": "t:names.image",
                   "settings": {
+                    "image": "shopify://shop_images/kotn-impact-homepage-hero.jpg",
                     "link": "",
-                    "image_ratio": "adapt",
+                    "image_ratio": "square",
                     "width": "fill",
                     "custom_width": 100,
                     "width_mobile": "fill",
