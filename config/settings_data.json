@@ -11,8 +11,8 @@
   "current": {
     "logo": "{{ shop.brand.logo }}",
     "logo_inverse": "shopify://shop_images/kotn-logo-wordmark-inverse-white.svg",
-    "logo_height": 36,
-    "logo_height_mobile": 28,
+    "logo_height": 16,
+    "logo_height_mobile": 16,
     "type_body_font": "geist_n4",
     "type_subheading_font": "geist_n5",
     "type_heading_font": "geist_n6",
