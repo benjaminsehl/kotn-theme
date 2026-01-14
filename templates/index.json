@@ -129,7 +129,7 @@
           "name": "t:names.button",
           "settings": {
             "label": "Shop now",
-            "link": "shopify://collections/all",
+            "link": "shopify://collections/sale",
             "open_in_new_tab": false,
             "style_class": "link",
             "width": "custom",
@@ -1262,6 +1262,20 @@
         "padding-block-end": 40
       }
     },
+    "divider_KD3aqc": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "",
+        "section_width": "full-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    },
     "marquee_izzYrQ": {
       "type": "marquee",
       "blocks": {
@@ -1301,20 +1315,6 @@
         "padding-block-start": 48,
         "padding-block-end": 48,
         "gap_between_elements": 16
-      }
-    },
-    "divider_KD3aqc": {
-      "type": "divider",
-      "name": "t:names.divider_section",
-      "settings": {
-        "color_scheme": "",
-        "section_width": "full-width",
-        "thickness": 1,
-        "corner_radius": "square",
-        "width_percent": 100,
-        "alignment_horizontal": "center",
-        "padding-block-start": 0,
-        "padding-block-end": 0
       }
     },
     "divider_K97tTz": {
