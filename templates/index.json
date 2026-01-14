@@ -865,7 +865,7 @@
           "settings": {
             "media_type": "image",
             "image": "shopify://shop_images/kotn-impact-homepage-hero.jpg",
-            "link": "",
+            "link": "shopify://pages/about",
             "video_loop": true,
             "video_autoplay": false,
             "image_position": "cover",
