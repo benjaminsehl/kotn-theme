@@ -549,8 +549,8 @@
                 "open_in_new_tab": false,
                 "padding-block-start": 0,
                 "padding-block-end": 0,
-                "padding-inline-start": 16,
-                "padding-inline-end": 16
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
               },
               "blocks": {
                 "product_title_mDe6FU": {
