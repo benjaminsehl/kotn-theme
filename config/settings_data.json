@@ -9,6 +9,10 @@
  */
 {
   "current": {
+    "logo": "{{ shop.brand.logo }}",
+    "logo_inverse": "shopify://shop_images/kotn-logo-wordmark-inverse-white.svg",
+    "logo_height": 36,
+    "logo_height_mobile": 28,
     "type_body_font": "geist_n4",
     "type_subheading_font": "geist_n5",
     "type_heading_font": "geist_n6",
@@ -57,8 +61,6 @@
     "input_border_width": 1,
     "inputs_border_radius": 8,
     "type_preset": "paragraph",
-    "logo_height": 36,
-    "logo_height_mobile": 28,
     "popover_border_radius": 8,
     "popover_border": "none",
     "product_corner_radius": 2,
@@ -70,6 +72,14 @@
     "variant_button_border_width": 1,
     "variant_button_radius": 2,
     "variant_button_width": "equal-width-buttons",
+    "content_for_index": [],
+    "blocks": {
+      "depict_brand_features": {
+        "type": "shopify://apps/depict/blocks/depict_brand_features/ad5c7d1f-ddfb-424b-b936-7f08c4544f6b",
+        "disabled": false,
+        "settings": {}
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -343,13 +353,6 @@
           "selected_variant_hover_text_color": "#ffffff",
           "selected_variant_hover_border_color": "#1a1a1a"
         }
-      }
-    },
-    "blocks": {
-      "depict_brand_features": {
-        "type": "shopify://apps/depict/blocks/depict_brand_features/ad5c7d1f-ddfb-424b-b936-7f08c4544f6b",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
